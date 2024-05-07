@@ -1,0 +1,14 @@
+C:\Users\yoshi\Desktop\parcial_II\obj\Debug\net8.0\parcial_II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoshi\Desktop\parcial_II\obj\Debug\net8.0\parcial_II.AssemblyInfoInputs.cache
+C:\Users\yoshi\Desktop\parcial_II\obj\Debug\net8.0\parcial_II.AssemblyInfo.cs
+C:\Users\yoshi\Desktop\parcial_II\obj\Debug\net8.0\parcial_II.csproj.CoreCompileInputs.cache
+C:\Users\yoshi\Desktop\parcial_II\bin\Debug\net8.0\parcial_II.exe
+C:\Users\yoshi\Desktop\parcial_II\bin\Debug\net8.0\parcial_II.deps.json
+C:\Users\yoshi\Desktop\parcial_II\bin\Debug\net8.0\parcial_II.runtimeconfig.json
+C:\Users\yoshi\Desktop\parcial_II\bin\Debug\net8.0\parcial_II.dll
+C:\Users\yoshi\Desktop\parcial_II\bin\Debug\net8.0\parcial_II.pdb
+C:\Users\yoshi\Desktop\parcial_II\obj\Debug\net8.0\parcial_II.dll
+C:\Users\yoshi\Desktop\parcial_II\obj\Debug\net8.0\refint\parcial_II.dll
+C:\Users\yoshi\Desktop\parcial_II\obj\Debug\net8.0\parcial_II.pdb
+C:\Users\yoshi\Desktop\parcial_II\obj\Debug\net8.0\parcial_II.genruntimeconfig.cache
+C:\Users\yoshi\Desktop\parcial_II\obj\Debug\net8.0\ref\parcial_II.dll
